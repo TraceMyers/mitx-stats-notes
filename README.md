@@ -5,3 +5,5 @@ I'm going to be uploading all of my notes here in the form of jupyter notebooks.
 Hope this helps us all understand things a little better
 
 -Trace
+
+edit 8/24/2022: I apologize that my notes only cover half of the class, but I'm happy so many people have found them useful!
